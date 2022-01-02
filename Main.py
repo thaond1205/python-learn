@@ -1,3 +1,3 @@
 x =3
-x = 'tr'
+x = 'tr'  
 print(xz)
